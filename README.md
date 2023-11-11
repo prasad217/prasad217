@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)
+
 <h1 align="center">Hi 👋, I'm Prasad Mekala</h1>
 <h3 align="center">Driven undergraduate Computer Science student aspiring to excel in Full Stack Web Development. Seeking challenging opportunities to apply comprehensive knowledge of front-end and back-end technologies. Eager to contribute expertise to dynamic projects, demonstrate a strong commitment to quality, and further develop skills in creating sophisticated and user-centric web applications.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
