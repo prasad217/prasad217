@@ -1,4 +1,4 @@
-<p align="left">Hi there, I'm Prasada Mani! 👋<br><br>I am a passionate and driven Full Stack Developer with a robust background in web development, particularly skilled in React.js, Node.js, and Express.js. Currently, I am pursuing a B.Tech in Computer Science at SRM University, Tamil Nadu, and I have a deep interest in developing innovative solutions that blend both front-end and back-end technologies.</p>
+<h3 align="left">Hi there, I'm Prasada Mani! 👋<br><br>I am a passionate and driven Full Stack Developer with a robust background in web development, particularly skilled in React.js, Node.js, and Express.js. Currently, I am pursuing a B.Tech in Computer Science at SRM University, Tamil Nadu, and I have a deep interest in developing innovative solutions that blend both front-end and back-end technologies.</h3>
 
 ###
 
